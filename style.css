@@ -1,0 +1,18 @@
+.panda-bg-info{
+    background-color: rgba(255, 221, 212, 0.973);
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.panda-btn-buy-now{
+    background-image: linear-gradient(rgb(255, 145, 145), rgb(255, 53, 27));
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.panda-btn-buy-now:hover{
+    background-image: linear-gradient(rgb(98, 80, 255), rgb(8, 12, 250));
+    color: white;
+}
